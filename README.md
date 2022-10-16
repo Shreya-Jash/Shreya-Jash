@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Shreya Jash</h1>
+![Gray Minimalist Business Twitter Header](https://user-images.githubusercontent.com/76915986/196050324-fdb76c46-f85d-4f45-8dab-99467c92845c.gif)
+
 <h3 align="center">A passionate frontend developer and Graphics Designer</h3>
 
 - 🌱 I’m currently learning **JavaScript, React, DSA etc**
