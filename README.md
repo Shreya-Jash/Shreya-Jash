@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Shreya Jash</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate frontend developer and Graphics Designer</h3>
 
 - 🌱 I’m currently learning **JavaScript, React, DSA etc**
 
