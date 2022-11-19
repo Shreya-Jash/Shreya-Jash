@@ -2,6 +2,8 @@
 
 <h3 align="center">A passionate frontend developer and Graphics Designer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-jash&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-jash" /> </p>
+
 - 🌱 I’m currently learning **JavaScript, React, DSA etc**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
