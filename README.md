@@ -15,7 +15,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreya-jash&show_icons=true&locale=en&layout=compact" alt="shreya-jash" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreya-jash&show_icons=true&locale=en" alt="shreya-jash" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-jash&" alt="shreya-jash" /></p>
-<p>My HACKTOBERFEST Badges-</p>
+<!-- <p>My HACKTOBERFEST Badges-</p>
 
-[![@shreyajash's Holopin board](https://holopin.me/shreyajash)](https://holopin.io/@shreyajash)
+[![@shreyajash's Holopin board](https://holopin.me/shreyajash)](https://holopin.io/@shreyajash) -->
 
