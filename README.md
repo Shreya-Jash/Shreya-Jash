@@ -1,5 +1,3 @@
-![Gray Minimalist Business Twitter Header](https://user-images.githubusercontent.com/76915986/196050324-fdb76c46-f85d-4f45-8dab-99467c92845c.gif)
-
 <h3 align="center">A passionate frontend developer and Graphics Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-jash&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-jash" /> </p>
