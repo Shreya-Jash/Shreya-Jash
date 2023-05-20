@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hello, Everyone! 👋<br>My name is Shreya Jash, and I'm delighted to welcome you to my GitHub profile.<br>I am a passionate Frontend Developer and Graphics Designer, constantly seeking new opportunities to create stunning user experiences and visually captivating designs.
+<br style=center >Hello, Everyone! 👋<br>My name is Shreya Jash, and I'm delighted to welcome you to my GitHub profile.<br>I am a passionate Frontend Developer and Graphics Designer, constantly seeking new opportunities to create stunning user experiences and visually captivating designs.
 
 
 ## 🌐 Socials:
