@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br>👋 Hey, I'm Shreya Jash! A Frontend Developer and Graphics Designer on a quest to create captivating user experiences and eye-catching designs. Explore with me! 🚀
+# 💫 Developer Profile:
+<br>👋 Hey, I'm Shreya! A Software Developer on a quest to create captivating user experiences and build resilient backends. Explore with me! 🚀
 
 
 ## 🌐 Socials:
