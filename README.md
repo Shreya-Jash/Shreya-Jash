@@ -1,5 +1,5 @@
-# 💫 Developer Profile:
-<br>👋 Hey, I'm Shreya! A Software Developer on a quest to create captivating user experiences and build resilient backends. Explore with me! 🚀
+# 👩🏻‍💻 Developer Profile:
+<br>👋 Hey, I'm Shreya! A Software Developer on a quest to create captivating user experiences and build resilient backends. Explore with me! 
 
 
 ## 🌐 Socials:
